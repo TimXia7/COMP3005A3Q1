@@ -12,7 +12,7 @@ There should be 3 files in this submission:
     3. README.txt           what you are reading right now
 
 
-VIDEO LINK: 
+VIDEO LINK: ""
 
 EXECUTION INSTRUCTIONS (Should you choose to, though the video and code should be adequate):
 
