@@ -114,7 +114,6 @@ try:
     getAllStudents()
     print("\n")
 
-
     deleteStudent(1)
     print("After deleting the student just added with addStudent():")
     getAllStudents()

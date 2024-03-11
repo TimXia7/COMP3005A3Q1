@@ -1,6 +1,6 @@
 Tim Xia
 101222137
-COMP 3005
+COMP 3005`
 
 
 There should be 3 files in this submission:
@@ -12,7 +12,7 @@ There should be 3 files in this submission:
     3. README.txt           what you are reading right now
 
 
-VIDEO LINK: ""
+VIDEO LINK: "https://youtu.be/vlhU9ginJkk"
 
 EXECUTION INSTRUCTIONS (Should you choose to, though the video and code should be adequate):
 
